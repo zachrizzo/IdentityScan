@@ -1,0 +1,10 @@
+streamlit
+face_recognition
+Pillow
+numpy
+piexif
+
+
+
+#Please note, the actual version numbers and additional dependencies might vary based on your project's specifics and any additional features you might have implemented. To generate a requirements.txt that captures all your environment's current packages and their versions, you can run pip freeze > requirements.txt. However, this will include all packages in the environment, so it's recommended to manually write the file or edit the pip freeze output to include only the necessary packages.
+
